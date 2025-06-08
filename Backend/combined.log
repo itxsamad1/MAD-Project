@@ -1,0 +1,7 @@
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-08T08:54:23.666Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Failed to start server:","stack":"AggregateError [ECONNREFUSED]: \n    at D:\\MAD Project\\Backend\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async startServer (D:\\MAD Project\\Backend\\src\\app.js:85:5)","timestamp":"2025-06-08T08:56:57.436Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Failed to start server:","stack":"AggregateError [ECONNREFUSED]: \n    at D:\\MAD Project\\Backend\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async startServer (D:\\MAD Project\\Backend\\src\\app.js:85:5)","timestamp":"2025-06-08T08:56:57.698Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Failed to start server:","stack":"AggregateError [ECONNREFUSED]: \n    at D:\\MAD Project\\Backend\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async startServer (D:\\MAD Project\\Backend\\src\\app.js:85:5)","timestamp":"2025-06-08T08:57:46.574Z"}
+{"level":"info","message":"Connected to the database","timestamp":"2025-06-08T09:18:15.167Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-06-08T09:18:15.263Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-06-08T09:18:15.267Z"}
